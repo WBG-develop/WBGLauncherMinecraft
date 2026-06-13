@@ -1,1 +1,19 @@
-
+{
+  "files": [
+    {
+      "path": "mods/jei.jar",
+      "url": "https://...",
+      "sha256": "A1B2C3D4..."
+    },
+    {
+      "path": "resourcepacks/WBG.zip",
+      "url": "https://...",
+      "sha256": "E5F6G7H8..."
+    },
+    {
+      "path": "shaderpacks/Complementary.zip",
+      "url": "https://...",
+      "sha256": "I9J0K1L2..."
+    }
+  ]
+}
