@@ -2,37 +2,30 @@
     "files": [
         {
             "path": "mods/cloth-config.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/cloth-config.jar",
             "sha256": "8A40C84E5ECDE525ACFB6C4E13B8002DACFCA3EF9534D7FAF6E8049656F423C8"
         },
         {
             "path": "mods/fabric-api.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/fabric-api.jar",
             "sha256": "6A577F83BD8B33C9404127D16531ACC9C4195F47DE0395957C9D4CD09D7B98C6"
         },
         {
             "path": "mods/iris.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/iris.jar",
             "sha256": "CEA0A753A66464371BB36C7B866B13E3BD1074E2BE5C3DF43979012DA495BB73"
         },
         {
             "path": "mods/journeymap.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/journeymap.jar",
             "sha256": "2A9C2785FAD8E4E74C9FA6D1CFAFFF88BBD11B8E6E7F36B8DC8D26DFBE72C59E"
         },
         {
             "path": "mods/modmenu.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/modmenu.jar",
             "sha256": "01C40010072723EF2C62F9AE06D8AEBBB52765ACEB8F1B065BB36A37B3D4D7F1"
         },
         {
             "path": "mods/plasmovoice.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/plasmovoice.jar",
             "sha256": "39D6B7996609196365EFE57654D4340BE9DC132CF5355DC16D5A8AD2D426A965"
         },
         {
             "path": "mods/sodium.jar",
-            "url": "https://raw.githubusercontent.com/WBG-develop/WBGLauncherMinecraft/main/mods/sodium.jar",
             "sha256": "3A5F8D82A9C2AEA770EF6A1BC5782D37BBBA00431C9A10FBEC9B5B29AC897B6D"
         }
     ]
