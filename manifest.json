@@ -9,8 +9,8 @@
                       "Sha256":  "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446"
                   },
                   {
-                      "Path":  "mods/iris-fabric-1.11.1-mc26.2.jar",
-                      "Sha256":  "2307d0ae6d39197b00c974d353c65ce521adc9ab6e3913c28cbf8cb2b694fc86"
+                      "Path":  "mods/iris-fabric-1.11.2+mc26.2.jar",
+                      "Sha256":  "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
                   },
                   {
                       "Path":  "mods/journeymap-fabric-26.2-6.0.0.jar",
