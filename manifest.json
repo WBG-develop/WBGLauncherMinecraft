@@ -1,32 +1,32 @@
-{
-    "files": [
-        {
-            "path": "mods/cloth-config.jar",
-            "sha256": "8A40C84E5ECDE525ACFB6C4E13B8002DACFCA3EF9534D7FAF6E8049656F423C8"
-        },
-        {
-            "path": "mods/fabric-api.jar",
-            "sha256": "6A577F83BD8B33C9404127D16531ACC9C4195F47DE0395957C9D4CD09D7B98C6"
-        },
-        {
-            "path": "mods/iris.jar",
-            "sha256": "CEA0A753A66464371BB36C7B866B13E3BD1074E2BE5C3DF43979012DA495BB73"
-        },
-        {
-            "path": "mods/journeymap.jar",
-            "sha256": "2A9C2785FAD8E4E74C9FA6D1CFAFFF88BBD11B8E6E7F36B8DC8D26DFBE72C59E"
-        },
-        {
-            "path": "mods/modmenu.jar",
-            "sha256": "01C40010072723EF2C62F9AE06D8AEBBB52765ACEB8F1B065BB36A37B3D4D7F1"
-        },
-        {
-            "path": "mods/plasmovoice.jar",
-            "sha256": "39D6B7996609196365EFE57654D4340BE9DC132CF5355DC16D5A8AD2D426A965"
-        },
-        {
-            "path": "mods/sodium.jar",
-            "sha256": "3A5F8D82A9C2AEA770EF6A1BC5782D37BBBA00431C9A10FBEC9B5B29AC897B6D"
-        }
-    ]
+﻿{
+    "Files":  [
+                  {
+                      "Path":  "mods/cloth-config-26.2.155.jar",
+                      "Sha256":  "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
+                  },
+                  {
+                      "Path":  "mods/fabric-api-0.154.2+26.2.jar",
+                      "Sha256":  "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446"
+                  },
+                  {
+                      "Path":  "mods/iris-fabric-1.11.1-mc26.2.jar",
+                      "Sha256":  "2307d0ae6d39197b00c974d353c65ce521adc9ab6e3913c28cbf8cb2b694fc86"
+                  },
+                  {
+                      "Path":  "mods/journeymap-fabric-26.2-6.0.0.jar",
+                      "Sha256":  "b6ab00487ecb424a8bf2bfb7e9fe73e902e3fdca722f0775b6d4d7642d25979c"
+                  },
+                  {
+                      "Path":  "mods/modmenu-20.0.1.jar",
+                      "Sha256":  "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
+                  },
+                  {
+                      "Path":  "mods/plasmovoice-fabric-26.2-2.1.13.jar",
+                      "Sha256":  "108a3a56647ed9fd4673f8788b4a3bb42bd12925db2dd280196290f569a20b82"
+                  },
+                  {
+                      "Path":  "mods/sodium-fabric-0.9.1+mc26.2.jar",
+                      "Sha256":  "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+                  }
+              ]
 }
