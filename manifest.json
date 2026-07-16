@@ -27,6 +27,10 @@
                   {
                       "Path":  "mods/sodium-fabric-0.9.1+mc26.2.jar",
                       "Sha256":  "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
+                  },
+                  {
+                      "Path":  "mods/wbg-1.0.0.jar",
+                      "Sha256":  "948a085eb0771d9b2d30e66dcdd8bc8c894270d577a216951e5e63a3365dd3ec"
                   }
               ]
 }
