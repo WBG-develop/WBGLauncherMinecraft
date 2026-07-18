@@ -21,16 +21,16 @@
                       "Sha256":  "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
                   },
                   {
-                      "Path":  "mods/plasmovoice-fabric-26.2-2.1.13.jar",
-                      "Sha256":  "108a3a56647ed9fd4673f8788b4a3bb42bd12925db2dd280196290f569a20b82"
-                  },
-                  {
                       "Path":  "mods/sodium-fabric-0.9.1+mc26.2.jar",
                       "Sha256":  "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
                   },
                   {
+                      "Path":  "mods/voicechat-fabric-2.6.20+26.2.jar",
+                      "Sha256":  "6357a67908ab352c7b84dded72ac1a51f255028ef13f98dc109541b94fe34645"
+                  },
+                  {
                       "Path":  "mods/wbg-1.0.0.jar",
-                      "Sha256":  "f1bcd830958c353e965ab9e75e69d0a960bed11cfc8a6fe56d26eeab75793dae"
+                      "Sha256":  "e8b491562e69eda339d7b505dc54c264c6a0e7f576294fb330ab8e9d3f6bba6b"
                   }
               ]
 }
