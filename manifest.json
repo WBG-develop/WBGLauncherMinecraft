@@ -9,6 +9,10 @@
                       "Sha256":  "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446"
                   },
                   {
+                      "Path":  "mods/invisibleframes-fabric-2.0.1+26.2.jar",
+                      "Sha256":  "1d425b913720da95bb313d31f518873d5a5748c28f92a06abed7441ce5b1b682"
+                  },
+                  {
                       "Path":  "mods/iris-fabric-1.11.2+mc26.2.jar",
                       "Sha256":  "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
                   },
