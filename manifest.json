@@ -9,6 +9,10 @@
                       "Sha256":  "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
                   },
                   {
+                      "Path":  "mods/DistantHorizons-3.2.0-b-26.2-fabric-neoforge.jar",
+                      "Sha256":  "fb7a60fa06775d208ff47ce4b98c668cdc527449c37da4a8068695794456349f"
+                  },
+                  {
                       "Path":  "mods/fabric-api-0.154.2+26.2.jar",
                       "Sha256":  "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446"
                   },
@@ -38,7 +42,7 @@
                   },
                   {
                       "Path":  "mods/wbg-1.0.0.jar",
-                      "Sha256":  "be433860684bd99bcf630475420c38508bbf08785c22a8652138ce28d07fecf1"
+                      "Sha256":  "0098e7a80f80db08ce97e132b59f455177ca3bdda95178c2485d920e827d046c"
                   }
               ]
 }
