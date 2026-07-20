@@ -1,6 +1,10 @@
 ﻿{
     "Files":  [
                   {
+                      "Path":  "authlib-injector-1.2.8.jar",
+                      "Sha256":  "9c7f4343e6c82034958ffb48c14a2cb0c85928be7283103ce17da00c6d5a7b10"
+                  },
+                  {
                       "Path":  "mods/cloth-config-26.2.155.jar",
                       "Sha256":  "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
                   },
@@ -34,7 +38,7 @@
                   },
                   {
                       "Path":  "mods/wbg-1.0.0.jar",
-                      "Sha256":  "08f394f34ba7508f91958d64b8e75bf39080dfe145fc3f0368f00f4279230ad1"
+                      "Sha256":  "be433860684bd99bcf630475420c38508bbf08785c22a8652138ce28d07fecf1"
                   }
               ]
 }
