@@ -11,8 +11,8 @@
                   {
                       "Id":  "cloth-config",
                       "Category":  "mod",
-                      "Required":  false,
-                      "DefaultEnable":  false,
+                      "Required":  true,
+                      "DefaultEnable":  true,
                       "Path":  "mods/cloth-config-26.2.155.jar",
                       "Sha256":  "def4be7639cd66704f7e304d658ea0f6bf490fb4a6eaa2dbf18ec2c3999d6349"
                   },
@@ -27,8 +27,8 @@
                   {
                       "Id":  "fabric-api",
                       "Category":  "mod",
-                      "Required":  false,
-                      "DefaultEnable":  false,
+                      "Required":  true,
+                      "DefaultEnable":  true,
                       "Path":  "mods/fabric-api-0.154.2+26.2.jar",
                       "Sha256":  "05e6c3cc98bc534aef7f1f0483c0bbfd1454bd1cf37751871f8ff1a66e9d7446"
                   },
@@ -43,8 +43,8 @@
                   {
                       "Id":  "iris",
                       "Category":  "mod",
-                      "Required":  false,
-                      "DefaultEnable":  false,
+                      "Required":  true,
+                      "DefaultEnable":  true,
                       "Path":  "mods/iris-fabric-1.11.2+mc26.2.jar",
                       "Sha256":  "df0e2ccddaea17b191eda32b21c979e131bc9d4ef4f831113b50b461fc4a3804"
                   },
@@ -52,15 +52,15 @@
                       "Id":  "journeymap",
                       "Category":  "mod",
                       "Required":  false,
-                      "DefaultEnable":  false,
+                      "DefaultEnable":  true,
                       "Path":  "mods/journeymap-fabric-26.2-6.0.0.jar",
                       "Sha256":  "b6ab00487ecb424a8bf2bfb7e9fe73e902e3fdca722f0775b6d4d7642d25979c"
                   },
                   {
                       "Id":  "modmenu",
                       "Category":  "mod",
-                      "Required":  false,
-                      "DefaultEnable":  false,
+                      "Required":  true,
+                      "DefaultEnable":  true,
                       "Path":  "mods/modmenu-20.0.1.jar",
                       "Sha256":  "81bfbca06012c57c74949072f2ffaad06360badee4d00dc59bfaeac80dd24bd8"
                   },
@@ -68,23 +68,23 @@
                       "Id":  "sodium",
                       "Category":  "mod",
                       "Required":  false,
-                      "DefaultEnable":  false,
+                      "DefaultEnable":  true,
                       "Path":  "mods/sodium-fabric-0.9.1+mc26.2.jar",
                       "Sha256":  "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
                   },
                   {
                       "Id":  "voicechat",
                       "Category":  "mod",
-                      "Required":  false,
-                      "DefaultEnable":  false,
+                      "Required":  true,
+                      "DefaultEnable":  true,
                       "Path":  "mods/voicechat-fabric-2.6.20+26.2.jar",
                       "Sha256":  "6357a67908ab352c7b84dded72ac1a51f255028ef13f98dc109541b94fe34645"
                   },
                   {
                       "Id":  "wbg",
                       "Category":  "mod",
-                      "Required":  false,
-                      "DefaultEnable":  false,
+                      "Required":  true,
+                      "DefaultEnable":  true,
                       "Path":  "mods/wbg-1.0.0.jar",
                       "Sha256":  "0098e7a80f80db08ce97e132b59f455177ca3bdda95178c2485d920e827d046c"
                   }
