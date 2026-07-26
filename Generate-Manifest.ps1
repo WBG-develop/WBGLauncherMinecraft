@@ -79,9 +79,12 @@ $files = Get-ChildItem $root -Recurse -File | ForEach-Object {
 
     [PSCustomObject]@{
         Id            = $id
+        Name          = $id
+        Version       = ""
         Category      = $category
         Required      = $false
         DefaultEnable = $false
+        Description   = ""
         Path          = $relativePath
         Sha256        = (Get-FileHash $_.FullName -Algorithm SHA256).Hash.ToLower()
     }

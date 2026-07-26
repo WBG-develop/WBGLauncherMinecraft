@@ -106,10 +106,14 @@ Get-ChildItem $root -Recurse -File | ForEach-Object {
         }
 
         $manifestObj.Files += [PSCustomObject]@{
+
             Id            = $id
+            Name          = $id
+            Version       = ""
             Category      = $category
             Required      = $false
             DefaultEnable = $false
+            Description   = ""
             Path          = $relativePath
             Sha256        = $hash
         }
