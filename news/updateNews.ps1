@@ -23,7 +23,7 @@ if ($news -isnot [System.Collections.IEnumerable] -or $news -is [string]) {
 # Создаем словарь существующих записей
 $map = @{}
 foreach ($item in $news) {
-    $map[$item.newsId] = $item
+    $map[$item.NewsId] = $item
 }
 
 # Итоговый массив
@@ -38,8 +38,8 @@ foreach ($folder in $folders) {
     else {
         # Добавляем новую
         $result += [PSCustomObject]@{
-            newsId = $folder.Name
-            path   = $folder.Name
+            NewsId = $folder.Name
+            Path   = $folder.Name
         }
     }
 }
