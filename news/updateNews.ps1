@@ -11,13 +11,16 @@ if (Test-Path $jsonFile) {
     $content = Get-Content $jsonFile -Raw
 
     if (![string]::IsNullOrWhiteSpace($content)) {
-        $news = $content | ConvertFrom-Json
-    }
-}
+        $parsed = $content | ConvertFrom-Json
 
-# Если одна запись, превращаем в массив
-if ($news -isnot [System.Collections.IEnumerable] -or $news -is [string]) {
-    $news = @($news)
+        # ConvertFrom-Json возвращает объект при одной записи
+        if ($parsed -is [System.Array]) {
+            $news = $parsed
+        }
+        else {
+            $news = @($parsed)
+        }
+    }
 }
 
 # Создаем словарь существующих записей
@@ -44,9 +47,14 @@ foreach ($folder in $folders) {
     }
 }
 
-# Сохраняем красиво отформатированный JSON
-$result |
-    ConvertTo-Json -Depth 10 |
-    Set-Content $jsonFile -Encoding UTF8
+# Всегда сериализуем как массив
+$json = if ($result.Count -eq 1) {
+    "[`n$((ConvertTo-Json $result[0] -Depth 10))`n]"
+}
+else {
+    ConvertTo-Json $result -Depth 10
+}
+
+Set-Content -Path $jsonFile -Value $json -Encoding UTF8
 
 Write-Host "news.json обновлен."
