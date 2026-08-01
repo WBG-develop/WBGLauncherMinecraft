@@ -60,7 +60,7 @@
                       "Name":  "Iris",
                       "Version":  "1.11.2",
                       "Category":  "mod",
-                      "Required":  true,
+                      "Required":  false,
                       "DefaultEnable":  true,
                       "Description":  "Добавляет красивую графику (шейдеры) и сохраняет высокий уровень кадров в секунду (FPS).",
                       "Path":  "mods/iris-fabric-1.11.2+mc26.2.jar",
