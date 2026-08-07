@@ -91,7 +91,6 @@
                       "Category":  "mod",
                       "Required":  true,
                       "DefaultEnable":  true,
-					  "Order": -1,
 					  "Order": 3,
                       "Description":  "Добавляет удобный список установленных модов.",
                       "Path":  "mods/modmenu-20.0.1.jar",
@@ -104,6 +103,7 @@
                       "Category":  "mod",
                       "Required":  false,
                       "DefaultEnable":  true,
+					  "Order": -1,
                       "Description":  "Ускоряет игру повышает кол-во FPS и убирает зависания.",
                       "Path":  "mods/sodium-fabric-0.9.1+mc26.2.jar",
                       "Sha256":  "de406c7a0ca5e748dfbe44740278400882a44e3109e2584b243ec02d4003344b"
