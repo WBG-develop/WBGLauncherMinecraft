@@ -110,6 +110,7 @@ Get-ChildItem $root -Recurse -File | ForEach-Object {
             Id            = $id
             Name          = $id
             Version       = ""
+            Order         = -1
             Category      = $category
             Required      = $false
             DefaultEnable = $false
