@@ -80,6 +80,7 @@ $files = Get-ChildItem $root -Recurse -File | ForEach-Object {
     [PSCustomObject]@{
         Id            = $id
         Name          = $id
+        Order         = -1
         Version       = ""
         Category      = $category
         Required      = $false
